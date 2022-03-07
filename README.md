@@ -1,2 +1,6 @@
 # fh-api
-A backend API service for a react based project
+NodeJS backend, with express, 
+mongoDB and external API implementations such as 
+google sign in, 
+payments gateway & 
+node-mailer
